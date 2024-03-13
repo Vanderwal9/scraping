@@ -2,7 +2,7 @@ import requests
 import time
 
 
-api_key = 'AIzaSyDhvCu9rhv75ECBDRBBuv8QJXQ0uBvb5Mg'
+api_key = 'api key'
 # Base URL for Google Places text search
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 
