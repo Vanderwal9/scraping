@@ -35,6 +35,7 @@ This project comprises several Python scripts designed to gather, process, and a
 - pandas
 - BeautifulSoup4
 - requests
+- create a google cloud account and follow with the sign up process
 
 ## Setup and Execution
 1. Ensure Python is installed on your system.
